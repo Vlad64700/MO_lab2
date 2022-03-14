@@ -1,0 +1,13 @@
+/Users/vlad/Projects/MO_lab2/MO_lab2/bin/Debug/netcoreapp3.1/MO_lab2.deps.json
+/Users/vlad/Projects/MO_lab2/MO_lab2/bin/Debug/netcoreapp3.1/MO_lab2.runtimeconfig.json
+/Users/vlad/Projects/MO_lab2/MO_lab2/bin/Debug/netcoreapp3.1/MO_lab2.runtimeconfig.dev.json
+/Users/vlad/Projects/MO_lab2/MO_lab2/bin/Debug/netcoreapp3.1/MO_lab2.dll
+/Users/vlad/Projects/MO_lab2/MO_lab2/bin/Debug/netcoreapp3.1/MO_lab2.pdb
+/Users/vlad/Projects/MO_lab2/MO_lab2/obj/Debug/netcoreapp3.1/MO_lab2.csproj.AssemblyReference.cache
+/Users/vlad/Projects/MO_lab2/MO_lab2/obj/Debug/netcoreapp3.1/MO_lab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vlad/Projects/MO_lab2/MO_lab2/obj/Debug/netcoreapp3.1/MO_lab2.AssemblyInfoInputs.cache
+/Users/vlad/Projects/MO_lab2/MO_lab2/obj/Debug/netcoreapp3.1/MO_lab2.AssemblyInfo.cs
+/Users/vlad/Projects/MO_lab2/MO_lab2/obj/Debug/netcoreapp3.1/MO_lab2.csproj.CoreCompileInputs.cache
+/Users/vlad/Projects/MO_lab2/MO_lab2/obj/Debug/netcoreapp3.1/MO_lab2.dll
+/Users/vlad/Projects/MO_lab2/MO_lab2/obj/Debug/netcoreapp3.1/MO_lab2.pdb
+/Users/vlad/Projects/MO_lab2/MO_lab2/obj/Debug/netcoreapp3.1/MO_lab2.genruntimeconfig.cache
